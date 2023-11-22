@@ -35,5 +35,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:moksh3098@gmail.com)
+[Moksh](mailto:moksh3098@gmail.com)
 
